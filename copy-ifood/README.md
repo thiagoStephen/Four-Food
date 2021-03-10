@@ -33,13 +33,6 @@ npm
 
 React
 
-### Autores
-
-* **Artur Marques Magalhães**
-* **Diogo Gaspar**
-* **Luiz Mitsuru Dai**
-* **Ronaldo Jonson**
-* **Thiago Stephen**
 
 
 ### Licença
